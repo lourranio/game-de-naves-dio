@@ -26,6 +26,8 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 - [Projeto desenvolvido](https://game-resgate.vercel.app/)
 
+<p align="center"><img src=".https://github.com/lourranio/game-de-naves-dio/blob/83ab4bc0f0367cf6c2a4c3a00f2dd53a6fd674a8/screen.gif" title="Jogo de Naves - DIO"></p>
+
 <p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
@@ -41,4 +43,5 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 - Este projeto está sob a licença [MIT](./LICENSE).
 
 <!--Bottom session-->
+
 <br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
